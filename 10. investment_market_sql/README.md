@@ -16,6 +16,6 @@
 
 ## Дополнительные файлы
 
-Описание БД и ER-диаграмма находится в файле database_description.pdf
+Описание БД и ER-диаграмма находится в файле [database_description.pdf](https://github.com/Fothiss/Practicum/blob/main/investment_market_sql/database_description.pdf)
 
-Описание запросов содержится в файле requests_description.md
+Описание запросов содержится в файле [requests_description.md](https://github.com/Fothiss/Practicum/blob/main/investment_market_sql/request_description.md)
